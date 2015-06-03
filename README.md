@@ -23,7 +23,7 @@ a starting point. For existing applications you can run the following:
 $ composer require cakephp/cakephp:"~3.0"
 ```
 
-## Running Tests
+## Running Tests test
 
 Assuming you have PHPUnit installed system wide using one of the methods stated
 [here](http://phpunit.de/manual/current/en/installation.html), you can run the
